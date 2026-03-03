@@ -1,5 +1,9 @@
 package com.palindromechecker;
-
+/*
+* UC3 string is reversed and checked if string is palindrome or not
+* @version 3.0
+* @author Dilpreet
+*/
 public class UCThreePalindromeChecker {
 	public static void main(String[] args) {
 		String s = "level";
