@@ -2,6 +2,12 @@ package com.palindromechecker;
 
 import java.util.Scanner;
 
+/*
+ * UC4 Check string is palindrome or not using array
+ * @version 4.0
+ * @author Dilpreet
+ */
+
 public class UCFourPalindromeChecker {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -22,8 +28,8 @@ public class UCFourPalindromeChecker {
 		}
 		
 		if(isPal) {
-			System.out.println("String is Palindrome");
+			System.out.println("String is Palindrome.");
 		}
-		else System.out.println("String is Not Palindrome");
+		else System.out.println("String is Not Palindrome.");
 	}
 }
