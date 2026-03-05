@@ -9,7 +9,7 @@ public class UCTwelvePalindromeChecker {
 		System.out.print("Enter String: ");
 		String s = sc.nextLine();
 		
-		PalService ps = new PalService();
+		Service ps = new PalService();
 		
 		if(ps.check(s)) System.out.println("String is Palindrome");
 		else System.out.println("String is Not Palindrome");
