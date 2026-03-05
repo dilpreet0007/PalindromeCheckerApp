@@ -1,6 +1,11 @@
 package com.palindromechecker;
 
 import java.util.Scanner;
+/*
+* UC12 checking palindrome using interface and overriding it in runtime
+* @version 12.0
+* @author Dilpreet
+*/
 
 public class UCTwelvePalindromeChecker {
 
