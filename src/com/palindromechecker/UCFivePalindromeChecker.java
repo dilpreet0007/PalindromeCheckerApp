@@ -1,6 +1,11 @@
 package com.palindromechecker;
 
 import java.util.*;
+/*
+* UC5 string is stacked and checked if string is palindrome or not
+* @version 5.0
+* @author Dilpreet
+*/
 
 public class UCFivePalindromeChecker {
 
